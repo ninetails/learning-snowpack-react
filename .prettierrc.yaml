@@ -1,0 +1,19 @@
+---
+printWidth: 120
+semi: false
+singleQuote: true
+jsxBracketSameLine: true
+parser: "babel"
+overrides:
+  - files: "*.json"
+    options:
+      parser: "json"
+  - files: "*.md"
+    options:
+      parser: "mdx"
+  - files: "*.css"
+    options:
+      parser: "css"
+  - files: "*.html"
+    options:
+      parser: "html"
