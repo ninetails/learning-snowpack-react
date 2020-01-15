@@ -1,4 +1,3 @@
-install.audit true
 yarn-offline-mirror "./.yarn-offline"
 yarn-offline-mirror-pruning true
 install.audit true

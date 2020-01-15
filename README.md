@@ -1,37 +1,17 @@
-# Template for JavaScript Repos
+# Learning React using Snowpack
 
-## Usage
+## Static testing
 
-```sh
-$ npx degit ninetails/template-javascript <target>
+On folder `/static` there's an example using [Pika](https://www.pika.dev/cdn)
+
+## Snowpack
+
+Files for app:
+
 ```
-
-### Monorepo with Yarn Workspaces & Lerna
-
-```sh
-$ npx degit ninetails/template-javascript#monorepo <target>
+index.html
+src/App.js
 ```
-
-### Optional Features (optin)
-
-#### Yarn Offline Mirror
-
-Just copy `.yarnrc.example` to `.yarnrc`:
-
-```sh
-$ cp .yarnrc.example .yarn
-```
-
-## Features
-
-- [x] .editorconfig
-- [x] .gitignore
-- [x] LICENSE (MIT)
-- [x] Yarn Offline Mirror
-- [x] Prettier
-- [x] VSCode (hidden files only on editor)
-- [x] Husky
-  - [x] commitlint
 
 ## License
 

@@ -197,3 +197,9 @@ $RECYCLE.BIN/
 # Yarn
 .yarnrc
 .yarn-offline
+
+# Snowpack
+web_modules/
+
+# App
+lib
